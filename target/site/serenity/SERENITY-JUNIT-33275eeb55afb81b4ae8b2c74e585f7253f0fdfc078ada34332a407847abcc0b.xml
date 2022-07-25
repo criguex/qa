@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Google Homepage Search" skipped="0" tests="1" time="9.51" timestamp="2022-06-28 11:01:57"><testcase name="User can search by using the suggestions"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+testmasglobal.certification.tasks.GoTo.performAs(GoTo.java:20)&#13;
+testmasglobal.certification.stepdefinitions.TestMasGlobalStepDefinition.iTypeIntoTheSearchField(TestMasGlobalStepDefinition.java:41)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>

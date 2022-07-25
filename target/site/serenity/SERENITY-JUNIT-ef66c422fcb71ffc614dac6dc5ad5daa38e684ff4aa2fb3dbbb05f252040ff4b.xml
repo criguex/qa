@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Google Homepage Search" skipped="0" tests="1" time="2.16" timestamp="2020-08-21 07:28:33"><testcase name="User can search with Google Search"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+testmasglobal.certification.stepdefinitions.TestMasGlobalStepDefinition.iMOnTheHomepage(TestMasGlobalStepDefinition.java:13)&#13;
+✽.I’m on the homepage(src/test/resources/features/google/Google_homepage_search.feature:4)&#13;
+</system-err></testcase></testsuite>

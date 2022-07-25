@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Google Homepage Search" skipped="0" tests="1" time="5.65" timestamp="2022-03-09 11:29:38"><testcase name="User can search with “Targe”"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+org.apache.commons.lang3.SystemUtils.isJavaVersionAtLeast(SystemUtils.java:1654)&#13;
+org.apache.commons.lang3.ClassUtils.isAssignable(ClassUtils.java:760)&#13;
+testmasglobal.certification.tasks.GoTo.search(GoTo.java:24)&#13;
+testmasglobal.certification.stepdefinitions.TestMasGlobalStepDefinition.iTypeIntoTheSearchField(TestMasGlobalStepDefinition.java:43)&#13;
+✽.I type playstation 5 into the search field(src/test/resources/features/google/Google_homepage_search.feature:5)&#13;
+</system-err></testcase></testsuite>
