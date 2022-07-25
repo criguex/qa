@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions (
 
         features="src/test/resources/features/google/Google_homepage_search.feature",
-        glue="testmasglobal.certification.stepdefinitions",
+
         snippets= SnippetType.CAMELCASE
 )
 public class    GoogleHomePage {
